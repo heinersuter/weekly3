@@ -1,11 +1,12 @@
-# Backend folders
+# IDE folders
 .vs
+
+# Backend folders
 bin
 obj
 
 #Backend files
 *.csproj.user
-
 
 # Frontend folders
 node_modules 
