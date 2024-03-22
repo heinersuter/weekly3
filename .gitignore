@@ -1,13 +1,2 @@
-# IDE folders
-.vs
-
-# Backend folders
-bin
-obj
-
-#Backend files
-*.csproj.user
-
-# Frontend folders
-node_modules 
-/weekly3/build
+/node_modules 
+/build
