@@ -1,22 +1,32 @@
 ﻿.assignee-view {
-    flex: 1;
-    padding: 0.1rem 0.3rem 0.2rem 0.3rem;
-    margin: 0 0 0 0.5rem;
     text-align: center;
+}
+
+.assignee-view * {
+    padding: 2rem;
 }
 
 .Heiner {
     background: #FFC000;
+    color: black;
 }
 
 .Sabine {
     background: #C46DF9;
+    color: black;
 }
 
 .Yannik {
-    background: #7E847C;
+    background: #a6eecb;
+    color: black;
 }
 
 .Nilas {
     background: #99CCFF;
+    color: black;
+}
+
+.Niemand {
+    background: #a8a8a8;
+    color: black;
 }

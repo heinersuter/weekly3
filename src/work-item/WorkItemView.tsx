@@ -27,7 +27,7 @@ export default function WorkItemView({workItem, date}: WorkItemCardProps) {
             <div className={'work-item-status-row'}>
                 <input type="checkbox" className={'assignee-checkbox'} checked={isCompleted}
                        onChange={onCheckBoxChange}/>
-                <AssigneeView assignee={workItem.assignee}/>
+                <AssigneeView workItem={workItem}/>
             </div>
         </div>
     );

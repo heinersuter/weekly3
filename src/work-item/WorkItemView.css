@@ -21,6 +21,11 @@
     flex-direction: row;
 }
 
+.work-item-status-row select {
+    flex: 1;
+}
+
 .assignee-checkbox {
-    transform: scale(1.9);
+    transform: scale(1.5);
+    margin-right: 1rem;
 }
