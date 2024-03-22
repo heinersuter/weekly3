@@ -10,3 +10,4 @@ obj
 
 # Frontend folders
 node_modules 
+/weekly3/build
